@@ -1,5 +1,5 @@
 KEY_FILE := auth.json
-PROJECT_ID := playground-s-11-674289da
+PROJECT_ID := ######
 greet:=hello tanvir
 VPC_NAME := docker-devcontainer-class
 SUBNET_NAME := devcontainer-subnet
@@ -10,7 +10,7 @@ COMPUTE_ZONE := us-east1-b
 VM_TYPE := n1-standard-1
 VM_IMAGE_FAMILY := debian-11
 VM_IMAGE_PROJECT := debian-cloud
-SSH_PUBLIC_KEY := ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCxc7nDl3rX9EBpFXr6IBaYcPhr02Mf3lPQkTW+uk2Ixe2R9gDarxbcfVTKAf/7WiF1k+XAwthswdmHTwGJHfTnvDFmLUF4pxXeIB1Eqq7gllqENkTeDD6P2PhwD+GaLGpQavJtVaEUcGQb4sS1eB4d8Cnnyh78z82lmr1ijRsp8X4ZtVhOi1furUzJFXP3q66vSEq1HR+zesCnk4wWoEl0E3kLzCOaYpXLpZ4n8LRYGvTzn2e9X1eibHeVFr4HqNY4xHVvwc4FT5FCHEgAKWi+iV4GbAzZ57R4KKM5YtojsxUak5eSFl+Z1xnrulRGvStBKB9mbptKy5dyeNjAVkxGNYzmfLS8655mns6rfqiSFbXMFzitXsEnWTLeOzX8sb6CiNSdpcveFkqnl3GeirODz1HfXHv/ZG0bL0EPGxTwkWDr+1CqgQeFqSkZtKTHdomHyatXC0ujhYIppKsKUN6/xutgTJKkCr3gehEkIcrrU8R5LYFIAOF44C0PKpVYR8s= root@da7007e8511c
+SSH_PUBLIC_KEY := #################################
 INTERNAL_IP_RANGE := 31.43.23.23
 
 echo:
